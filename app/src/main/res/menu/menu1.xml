@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/copy"
+    android:title="copy"
+    android:icon="@drawable/ic_baseline_content_copy_24"
+    app:showAsAction="always"/>
+    <item android:id="@+id/paste"
+        android:title="paste"
+        android:icon="@drawable/ic_baseline_content_paste_24"/>
+    <item android:id="@+id/move"
+        android:title="move"
+        android:icon="@drawable/ic_twotone_emoji_transportation_24"/>
+</menu>
